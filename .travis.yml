@@ -2,3 +2,5 @@ language: java
 notifications:
   email:
     - nenad.lazovic@telus.com
+deploy:
+	skip_cleanup: true
